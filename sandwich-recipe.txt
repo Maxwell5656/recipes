@@ -1,0 +1,9 @@
+Ingredients:
+	Two pieces of bread
+	Whatever you want to put on sandwich
+
+Directions:
+	1. Place two pieces of bread on a plate.
+	2. Put whatever you want on the slices of bread
+	3. Place one piece of bread on the other with the stuff you put on facing toward the stuff on the other piece of bread.
+	4. You win.
